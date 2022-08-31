@@ -1,4 +1,4 @@
-### Olá! Eu sou a Diamila Loch
+### Olá! Eu sou a Diamila Loch 💻
 
 <div align="center">
   <a href="https://github.com/iimarsk">
